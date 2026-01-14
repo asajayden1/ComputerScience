@@ -1,5 +1,4 @@
 # ComputerScience
-ui
 
 
 
