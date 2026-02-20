@@ -227,7 +227,7 @@ class ChatBubble(QFrame):
 class ChatWindow(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("📸 Cyberpunk AI Camera Assistant & Price Tracker")
+        self.setWindowTitle("📸 AI Photography/Videography Assistant")
         self.setFixedSize(700, 650)
 
         # XP / Level / Memory / Quiz state
